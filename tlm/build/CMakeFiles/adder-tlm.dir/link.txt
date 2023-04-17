@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wall -rdynamic CMakeFiles/adder-tlm.dir/main.cpp.o -o adder-tlm  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 
